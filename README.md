@@ -1,5 +1,5 @@
-# brief-reference-cmd
-Brief reference of the CMD.
+# Brief Reference Cmd
+Brief reference of the Cmd.
 
 ---
 
