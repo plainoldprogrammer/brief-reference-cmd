@@ -7,3 +7,8 @@ Brief reference of the Cmd.
 ```
 > help <command>
 ```
+
+#### List the files of the current directory
+```
+> dir
+```
