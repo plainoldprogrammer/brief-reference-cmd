@@ -12,3 +12,8 @@ Brief reference of the Cmd.
 ```
 > dir
 ```
+
+#### Change directory
+```
+> cd <dir>
+```
