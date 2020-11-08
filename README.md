@@ -17,3 +17,9 @@ Brief reference of the Cmd.
 ```
 > cd <dir>
 ```
+
+
+#### Change to the parent directory
+```
+> cd ..
+```
