@@ -18,8 +18,12 @@ Brief reference of the Cmd.
 > cd <dir>
 ```
 
-
 #### Change to the parent directory
 ```
 > cd ..
+```
+
+#### Print the current date
+```
+> date
 ```
