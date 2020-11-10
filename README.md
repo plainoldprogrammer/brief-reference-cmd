@@ -27,3 +27,8 @@ Brief reference of the Cmd.
 ```
 > date
 ```
+
+#### Show the current volume information
+```
+> vol
+```
