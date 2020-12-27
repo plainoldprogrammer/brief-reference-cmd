@@ -57,3 +57,8 @@ Brief reference of the Cmd.
 ```
 > echo This is a simple file >> file.txt
 ```
+
+#### Get the processor architecture
+```
+> echo %processor_architecture%
+```
