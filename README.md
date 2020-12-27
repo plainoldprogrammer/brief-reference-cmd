@@ -32,3 +32,8 @@ Brief reference of the Cmd.
 ```
 > vol
 ```
+
+#### Show the enviroment variables
+```
+> echo %path%
+```
