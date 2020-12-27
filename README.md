@@ -72,3 +72,8 @@ Brief reference of the Cmd.
 ```
 > cd "files in the system"
 ```
+
+#### Move the content of one directory tree into another
+```
+> robocopy /move /e sourcedir destdir
+```
