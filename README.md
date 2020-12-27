@@ -67,3 +67,8 @@ Brief reference of the Cmd.
 ```
 > explorer
 ```
+
+#### Enter to a directory that has space between words
+```
+> cd "files in the system"
+```
