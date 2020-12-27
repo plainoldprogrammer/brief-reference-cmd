@@ -37,3 +37,8 @@ Brief reference of the Cmd.
 ```
 > echo %path%
 ```
+
+#### Show the system info
+```
+> systeminfo
+```
