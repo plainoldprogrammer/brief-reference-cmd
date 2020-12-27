@@ -47,3 +47,8 @@ Brief reference of the Cmd.
 ```
 > echo %tmp%
 ```
+
+#### Print the current directory tree
+```
+> Tree . /F
+```
