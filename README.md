@@ -77,3 +77,8 @@ Brief reference of the Cmd.
 ```
 > robocopy /move /e sourcedir destdir
 ```
+
+#### Create a tar file
+```
+> tar -zcvf tar-archive-name.tar.gz source-folder-name
+```
