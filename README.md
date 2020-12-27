@@ -92,3 +92,20 @@ Brief reference of the Cmd.
 ```
 > cd
 ```
+
+#### Create an empty file
+```
+> type nul > your_file.txt
+
+NOTE: This will create a 0 bytes in your_file.txt
+
+
+> echo.> your_file.txt
+
+NOTE: "echo." will create a file with one empty line in it.
+
+
+> call >> your_file.txt
+
+NOTE: Calls one batch program from another without stopping the parent batch program.
+```
