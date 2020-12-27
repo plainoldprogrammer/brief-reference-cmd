@@ -62,3 +62,8 @@ Brief reference of the Cmd.
 ```
 > echo %processor_architecture%
 ```
+
+#### Open the file explorer
+```
+> explorer
+```
