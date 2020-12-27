@@ -116,3 +116,8 @@ NOTE: Calls one batch program from another without stopping the parent batch pro
 
 2. > wmic path Win32_Share delete
 ```
+
+#### Show the cmd in fullscreen
+```
+Alt + ENTER
+```
