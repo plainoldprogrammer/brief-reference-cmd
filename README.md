@@ -109,3 +109,10 @@ NOTE: "echo." will create a file with one empty line in it.
 
 NOTE: Calls one batch program from another without stopping the parent batch program.
 ```
+
+#### Disable all shared folders
+```
+1. Run cmd as administrator.
+
+2. > wmic path Win32_Share delete
+```
