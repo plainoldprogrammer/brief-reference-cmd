@@ -52,3 +52,8 @@ Brief reference of the Cmd.
 ```
 > Tree . /F
 ```
+
+#### Redirect text to a file
+```
+> echo This is a simple file >> file.txt
+```
