@@ -42,3 +42,8 @@ Brief reference of the Cmd.
 ```
 > systeminfo
 ```
+
+#### Show the tmp directory
+```
+> echo %tmp%
+```
