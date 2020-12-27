@@ -82,3 +82,8 @@ Brief reference of the Cmd.
 ```
 > tar -zcvf tar-archive-name.tar.gz source-folder-name
 ```
+
+### Exit from the cmd
+```
+> exit
+```
