@@ -87,3 +87,8 @@ Brief reference of the Cmd.
 ```
 > exit
 ```
+
+#### Print the current directory path
+```
+> cd
+```
