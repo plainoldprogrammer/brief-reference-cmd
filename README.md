@@ -121,3 +121,8 @@ NOTE: Calls one batch program from another without stopping the parent batch pro
 ```
 Alt + ENTER
 ```
+
+#### Clear the screen
+```
+> cls
+```
