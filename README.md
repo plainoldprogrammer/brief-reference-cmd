@@ -126,3 +126,8 @@ Alt + ENTER
 ```
 > cls
 ```
+
+#### Show the current time
+```
+> time
+```
