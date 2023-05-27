@@ -3,6 +3,11 @@ Brief reference of the Cmd.
 
 ---
 
+#### Show the list of commands
+```
+> help
+```
+
 #### Show the help of a command
 ```
 > help <command>
