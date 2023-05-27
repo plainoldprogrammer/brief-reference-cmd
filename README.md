@@ -136,3 +136,8 @@ Alt + ENTER
 ```
 > time
 ```
+
+#### Verify connectivity to a server
+```
+> ping <targetname>
+```
