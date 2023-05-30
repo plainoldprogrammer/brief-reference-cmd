@@ -141,3 +141,8 @@ Alt + ENTER
 ```
 > ping <targetname>
 ```
+
+#### Open the notepad
+```
+> notepad
+```
