@@ -151,3 +151,8 @@ Alt + ENTER
 ```
 > assoc
 ```
+
+#### Check if there are file system errors
+```
+> chkdsk
+```
