@@ -146,3 +146,8 @@ Alt + ENTER
 ```
 > notepad
 ```
+
+#### List the file extension associations
+```
+> assoc
+```
