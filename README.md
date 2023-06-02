@@ -156,3 +156,8 @@ Alt + ENTER
 ```
 > chkdsk
 ```
+
+#### Create a directory
+```
+> mkdir <dirname>
+```
